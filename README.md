@@ -2,7 +2,7 @@
 
 # Virtual Internship – Task 3: Creating Effective Visuals
 
-**Internship Program:** [Name of Virtual Internship TATA]  
+**Internship Program:** [Virtual Internship TATA]  
 **Task Name:** Creating Effective Visuals (Power BI)  
 **File:** Task 3 - Creating Effective Visuals.pbix  
 
@@ -34,33 +34,19 @@ Before creating the visuals:
 - Added **Quantity Sold** as an additional metric for comparison.
 - Dual-axis chart for Revenue and Quantity.
 
----
+<img width="1344" height="755" alt="image" src="https://github.com/user-attachments/assets/355fb2d3-edee-46ad-b8c5-04271df93e7b" />
+
 
 ### **Question 3 – CMO: Top 10 Customers by Revenue**
 - Horizontal bar chart sorted by **Revenue (Highest to Lowest)**.
 - Identifies high-value customers for retention strategies.
 
----
+<img width="1331" height="729" alt="image" src="https://github.com/user-attachments/assets/7772b0bf-44c6-4ba5-ba57-8f2e7d672428" />
+
 
 ### **Question 4 – CEO: Product Demand by Country (Excluding UK)**
 - Map visual showing **total quantity sold** by country (excluding UK).
 - Designed for single-view insights without scrolling or hovering.
 
----
+<img width="1302" height="742" alt="image" src="https://github.com/user-attachments/assets/625dbf3f-3f37-49f7-9d2e-71dd7730cbfb" />
 
-## 📁 Files in Repository
-- `Task 3 - Creating Effective Visuals.pbix` – Power BI file with all visuals and data cleanup.
-- `README.md` – Explanation of the task, objectives, and visuals created.
-- `Screenshots/` – Optional folder with screenshots of each visual.
-
----
-
-## 🚀 How to Open the Project
-1. Download the `.pbix` file.
-2. Open it in **Power BI Desktop**.
-3. Navigate through the tabs named `Q1`, `Q2`, `Q3`, `Q4` to view the respective visuals.
-
----
-
-## 📷 Example Visuals (Optional)
-*Add screenshots from Power BI here if desired.*
